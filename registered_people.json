@@ -5,17 +5,17 @@
         "name": "Luan"
     },
     "user2": {
-        "image_path": "registered_images/dell.jpg",
+        "image_path": "registered_images/dell.jpeg",
         "access_level": 2,
         "name": "Dell"
     },
     "user3": {
-        "image_path": "registered_images/leticia.jpg",
+        "image_path": "registered_images/leticia.jpeg",
         "access_level": 1,
         "name": "Leticia"
     },
     "user4": {
-        "image_path": "registered_images/labrinth.jpg",
+        "image_path": "registered_images/labrinth.jpeg",
         "access_level": 4,
         "name": "Labrinth"
     },
