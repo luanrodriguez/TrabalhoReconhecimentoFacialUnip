@@ -1,0 +1,28 @@
+{
+    "user1": {
+        "image_path": "registered_images/luan.jpeg",
+        "access_level": 1,
+        "name": "Luan"
+    },
+    "user2": {
+        "image_path": "registered_images/dell.jpg",
+        "access_level": 2,
+        "name": "Dell"
+    },
+    "user3": {
+        "image_path": "registered_images/leticia.jpg",
+        "access_level": 1,
+        "name": "Leticia"
+    },
+    "user4": {
+        "image_path": "registered_images/labrinth.jpg",
+        "access_level": 4,
+        "name": "Labrinth"
+    },
+    "user5": {
+        "image_path": "registered_images/gaules.jpeg",
+        "access_level": 3,
+        "name": "Gaules"
+    }
+
+}
